@@ -1,0 +1,11 @@
+practicing\io\service\UnmarshallService.class
+practicing\io\function\OutputProcessor.class
+practicing\io\model\Input.class
+practicing\io\function\DataMapper.class
+practicing\io\function\InputProcessor.class
+practicing\io\config\DataIOModule.class
+practicing\io\service\JsonUnmarshallService.class
+practicing\io\model\Output.class
+practicing\io\handler\DataHandler.class
+practicing\io\App.class
+practicing\io\service\XmlUnmarshallService.class

@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "test-json",
+  "additional": [
+    "test-json-1",
+    "test-json-2"
+  ]
+}
